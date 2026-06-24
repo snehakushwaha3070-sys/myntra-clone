@@ -4,7 +4,9 @@ A front-end clone of the popular Indian e-commerce fashion website [Myntra](http
 
 ## 📸 Preview
 ![Myntra Clone Preview]
-![alt text](image.png)
+
+<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/52ce81bf-8b10-4889-9f89-436220565a7f" />
+
 
 ## 🛠️ Tech Stack
 - HTML5
