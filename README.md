@@ -1,4 +1,4 @@
-<img width="939" height="440" alt="image" src="https://github.com/user-attachments/assets/cd04a387-8444-4c11-89bb-e00e18e0db68" /># Myntra Clone 🛍️
+# Myntra Clone 🛍️
 
 A front-end clone of the popular Indian e-commerce fashion website [Myntra](https://www.myntra.com/), built using pure HTML and CSS.
 
