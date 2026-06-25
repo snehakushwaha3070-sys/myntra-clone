@@ -1,4 +1,4 @@
-# Myntra Clone 🛍️
+<img width="939" height="440" alt="image" src="https://github.com/user-attachments/assets/cd04a387-8444-4c11-89bb-e00e18e0db68" /># Myntra Clone 🛍️
 
 A front-end clone of the popular Indian e-commerce fashion website [Myntra](https://www.myntra.com/), built using pure HTML and CSS.
 
@@ -6,6 +6,12 @@ A front-end clone of the popular Indian e-commerce fashion website [Myntra](http
 ![Myntra Clone Preview]
 
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/52ce81bf-8b10-4889-9f89-436220565a7f" />
+OFFER SECTION
+<img width="939" height="440" alt="image" src="https://github.com/user-attachments/assets/08f0be9c-1c49-4192-bc9e-2b664ec80b9e" />
+CATEGORY SECTION
+<img width="943" height="428" alt="image" src="https://github.com/user-attachments/assets/164da522-33f6-4fb1-9a06-0c003e7898c9" />
+
+
 
 
 ## 🛠️ Tech Stack
@@ -22,4 +28,4 @@ A front-end clone of the popular Indian e-commerce fashion website [Myntra](http
 - Banner section
 - Footer
 
-## 📁 Project Structure
+
